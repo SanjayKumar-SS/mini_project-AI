@@ -36,8 +36,8 @@ To Create a space shooter game where the player controls a spaceship to shoot al
 ### Program:
 
 ```
-Developed by : Pramodh R
-Reg No       : 212221040128
+Developed by : Sanjay Kumar S S
+Reg No       : 212221240048
 ```
 
 
